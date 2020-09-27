@@ -23,6 +23,11 @@ public class ProjectInfoController {
     @Autowired
     private OssTemplate ossTemplate;
 
+    @GetMapping("/test")
+    public void test(){
+        System.out.println("你好");
+    }
+
     @PostMapping("/upload")
     @ApiOperation("上传图片")
     public AppResponse<Map<Object,Object>> upload(@RequestParam("file") MultipartFile[] files)throws Exception{
