@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/scw-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scw-parent/scw-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scw-parent/scw-project" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scw-parent/scw-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scw-register" charset="UTF-8" />
+  </component>
+</project>
